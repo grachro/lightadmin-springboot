@@ -21,7 +21,7 @@
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
 
-        <tomcat.version>8.0.15</tomcat.version>
+        <tomcat.version>8.0.53</tomcat.version>
 
         <lightadmin.version>1.2.0.RC1</lightadmin.version>
     </properties>
